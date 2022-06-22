@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_food_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_food_background
+drawable ic_food_foreground
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCancelar
+id btnEntrar
+id btnSalvar
+id editTextNumber
+id edtEmail
+id edtFone3
+id edtNome
+id edtSenha
+id fabAdicionar
+id imageView
+id lstLista
+id tbrCadastro
+id tbrLista
+id txtTitulo
+layout layout_cadastro
+layout layout_lista
+layout layout_login
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Pratica_4
+xml backup_rules
+xml data_extraction_rules
